@@ -1,16 +1,31 @@
-## Hi there 👋
+- 👋 Hi,,, I’m  Touqeer Hussain
+- 🌱 I’m currently working Javascript and .NET diffrent frameworks and libraries
+- 💞️ I’m looking to collaborate on IT 
+- 📫 How to reach me: { <br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:mwaqasahmad0082@gmail.com">mwaqasahmad0082@gmail.com</a>)<br/>
+              }
+<h1>Connect with me </h1>
 
-<!--
-**mwaqasahmad0082/mwaqasahmad0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/muhammad-waqas-a71926308/" rel="nofollow">
+  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%">
+</a>
+<span>
+  <a href="https://github.com/mwaqasahmad0082" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
+</span>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Languages </h1>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,mysql,react,nodejs,vue,express,mongodb,python,flutter"/>
+<br>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mwaqasahmad0082)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Waqas Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwaqasahmad0082&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwaqasahmad0082)](https://github.com/mwaqasahmad0082/github-readme-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mwaqasahmad0082)](https://git.io/streak-stats)
+<br>
