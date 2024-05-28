@@ -1,8 +1,8 @@
-- 👋 Hi,,, I’m  Touqeer Hussain
+- 👋 Hi,,, I’m Waqas Ahmad
 - 🌱 I’m currently working Javascript and .NET diffrent frameworks and libraries
 - 💞️ I’m looking to collaborate on IT 
 - 📫 How to reach me: { <br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923060082382">+923060082382</a>)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:mwaqasahmad0082@gmail.com">mwaqasahmad0082@gmail.com</a>)<br/>
               }
 <h1>Connect with me </h1>
@@ -16,7 +16,7 @@
 
 
 <h1> Languages </h1>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,mysql,react,nodejs,vue,express,mongodb,python,flutter"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,php"/>
 <br>
 
 
